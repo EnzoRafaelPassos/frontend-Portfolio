@@ -413,7 +413,7 @@ footer {
 
 .creator-footer {
     color: #00df5e;
-
+    font-size: 10px;
 }
 
 @media screen and (min-width: 720px) {
@@ -601,5 +601,10 @@ footer {
 
     .content-background-skills {
         margin: 20px;
+    }
+
+    .creator-footer {
+        color: #00df5e;
+        font-size: medium;
     }
 }
